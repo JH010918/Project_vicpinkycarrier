@@ -32,9 +32,12 @@
 
 
 ## 🎥 시연
+
+### 경사로 제어
+[Slope control](https://github.com/user-attachments/assets/63f0e42b-717f-4537-8dad-6ca5f4a11c15)
+
 ### 자율 맵핑 및 조난자 감지
 [yolo_dashboard.webm](https://github.com/user-attachments/assets/d191376e-2aaa-4d90-94dc-0e9628aad74e)
-
 
 ### OMX 시스템
 [omx_dashboard.webm](https://github.com/user-attachments/assets/4a6fdc93-9bdd-4377-ab9f-23895cbfc3be)
