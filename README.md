@@ -33,12 +33,23 @@
 ### 경사로 제어
 [Slope control](https://github.com/user-attachments/assets/63f0e42b-717f-4537-8dad-6ca5f4a11c15)
 
+### 터틀봇 상차 및 주차
+[auto_loading.webm](https://github.com/user-attachments/assets/35f7c49f-e6cc-4975-a01e-599cda26b8e8)
+
 ### 자율 맵핑 및 조난자 감지
-[yolo_dashboard.webm](https://github.com/user-attachments/assets/d191376e-2aaa-4d90-94dc-0e9628aad74e)
+[yolo_dashboard.webm](https://github.com/user-attachments/assets/32c18b7b-b848-4501-a7e7-fcd81c8a3fba)
 
 ### OMX 시스템
 [omx_dashboard.webm](https://github.com/user-attachments/assets/4a6fdc93-9bdd-4377-ab9f-23895cbfc3be)
 
+### 관제 시스템
+> | 상태확인 | 배터리 알림 | 전복 알림 |
+> | :---: | :---: | :---: |
+> | <img src="https://github.com/user-attachments/assets/a761cbbc-02bb-45b9-a2b0-90e8edffc89f" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover;" /> | <img src="https://github.com/user-attachments/assets/064f4753-c6ce-432f-96b9-fcee9d88100a"  style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover;" /> | <img src="https://github.com/user-attachments/assets/7f54253f-03b2-4d97-8ce9-a79871ed40cd" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover;" /> |
+> | LLM + RAG | 우선순위 지정 | 작업별/로봇별 현황 |
+> | <img src="https://github.com/user-attachments/assets/c11c46ec-ecc5-4355-ac84-658fc00a6a5c" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover;" /> | <img src="https://github.com/user-attachments/assets/ca599463-e926-4430-8e74-cf0a23796c82"  style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover;" /> | <img src="https://github.com/user-attachments/assets/daa0ccb8-8747-436d-8158-7498cfcdacf3" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover;" /> |
+> | 이동경로 확인 | 충전경로 확인 | 전복 시 표시 |
+> | <img src="https://github.com/user-attachments/assets/cbd86a4a-2fb9-4c78-a4da-5ec67dcaf505" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover;" /> | <img src="https://github.com/user-attachments/assets/2b40889a-f817-4ad1-8e81-1e96b39b1de3"  style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover;" /> | <img src="https://github.com/user-attachments/assets/1f4b2dc8-22ff-4e6c-b70d-12ebfc265990" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover;" /> |
 
 ## 🛠️ 하드웨어
 <details>
