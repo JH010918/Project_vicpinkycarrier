@@ -140,9 +140,6 @@
 >  </table>
 > </div>
 
-
-
-
   ### 빅핑키
 > |부품명|역할|
 > |------|------|
@@ -185,6 +182,25 @@
 >  </table>
 > </div>
 
+### OMX Manipulator
+> <div align="center">
+>  <table>
+>    <tr>
+>      <td align="center" width="33%">
+>        <img src="file/omx/omx_left.jpg" width="100%"/><br/>
+>        <sub><b>좌측면</b></sub>
+>      </td>
+>      <td align="center" width="33%">
+>        <img src="file/omx/omx_back.jpg" width="100%"/><br/>
+>        <sub><b>후면</b></sub>
+>      </td>
+>      <td align="center" width="33%">
+>        <img src="file/omx/omx_right.jpg" width="100%"/><br/>
+>        <sub><b>우측면</b></sub>
+>      </td>
+>    </tr>
+>  </table>
+> </div>
 
 </details>
 
