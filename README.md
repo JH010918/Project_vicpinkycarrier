@@ -43,13 +43,59 @@
 [omx_dashboard.webm](https://github.com/user-attachments/assets/4a6fdc93-9bdd-4377-ab9f-23895cbfc3be)
 
 ### 관제 시스템
-> | 상태확인 | 배터리 알림 | 전복 알림 |
-> | :---: | :---: | :---: |
-> | <img src="https://github.com/user-attachments/assets/a761cbbc-02bb-45b9-a2b0-90e8edffc89f" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover;" /> | <img src="https://github.com/user-attachments/assets/064f4753-c6ce-432f-96b9-fcee9d88100a"  style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover;" /> | <img src="https://github.com/user-attachments/assets/7f54253f-03b2-4d97-8ce9-a79871ed40cd" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover;" /> |
-> | LLM + RAG | 우선순위 지정 | 작업별/로봇별 현황 |
-> | <img src="https://github.com/user-attachments/assets/c11c46ec-ecc5-4355-ac84-658fc00a6a5c" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover;" /> | <img src="https://github.com/user-attachments/assets/ca599463-e926-4430-8e74-cf0a23796c82"  style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover;" /> | <img src="https://github.com/user-attachments/assets/daa0ccb8-8747-436d-8158-7498cfcdacf3" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover;" /> |
-> | 이동경로 확인 | 충전경로 확인 | 전복 시 표시 |
-> | <img src="https://github.com/user-attachments/assets/cbd86a4a-2fb9-4c78-a4da-5ec67dcaf505" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover;" /> | <img src="https://github.com/user-attachments/assets/2b40889a-f817-4ad1-8e81-1e96b39b1de3"  style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover;" /> | <img src="https://github.com/user-attachments/assets/1f4b2dc8-22ff-4e6c-b70d-12ebfc265990" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover;" /> |
+>  <div align="center">
+>  <table>
+>    <tr>
+>      <td align="center" width="30%">
+>        <img src="https://github.com/user-attachments/assets/a761cbbc-02bb-45b9-a2b0-90e8edffc89f" width="95%"/><br/>
+>        <sub><b>상태확인</b></sub>
+>      </td>
+>      <td align="center" width="30%">
+>        <img src="https://github.com/user-attachments/assets/064f4753-c6ce-432f-96b9-fcee9d88100a" width="100%"/><br/>
+>        <sub><b>배터리 알림</b></sub>
+>      </td>
+>      <td align="center" width="30%">
+>        <img src="https://github.com/user-attachments/assets/7f54253f-03b2-4d97-8ce9-a79871ed40cd" width="85%"/><br/>
+>        <sub><b>전복 알림</b></sub>
+>      </td>  
+>    </tr>
+>    <tr>
+>      <td align="center" width="30%">
+>        <img src="https://github.com/user-attachments/assets/c11c46ec-ecc5-4355-ac84-658fc00a6a5c" width="65%"/><br/>
+>        <sub><b>LLM + RAG</b></sub>
+>      </td>
+>      <td align="center" width="30%">
+>        <img src="https://github.com/user-attachments/assets/ca599463-e926-4430-8e74-cf0a23796c82" width="100%"/><br/>
+>        <sub><b>우선순위 지정</b></sub>
+>      </td>
+>      <td align="center" width="30%">
+>        <img src="https://github.com/user-attachments/assets/daa0ccb8-8747-436d-8158-7498cfcdacf3" width="100%"/><br/>
+>        <sub><b>작업별/로봇별 현황</b></sub>
+>      </td>  
+>    </tr>
+>    <tr>
+>      <td align="center" width="30%">
+>        <img src="https://github.com/user-attachments/assets/cbd86a4a-2fb9-4c78-a4da-5ec67dcaf505" width="100%"/><br/>
+>        <sub><b>이동경로 확인</b></sub>
+>      </td>
+>      <td align="center" width="30%">
+>        <img src="https://github.com/user-attachments/assets/2b40889a-f817-4ad1-8e81-1e96b39b1de3" width="100%"/><br/>
+>        <sub><b>충전경로 확인</b></sub>
+>      </td>  
+>      <td align="center" width="30%">
+>        <img src="https://github.com/user-attachments/assets/1f4b2dc8-22ff-4e6c-b70d-12ebfc265990" width="100%"/><br/>
+>        <sub><b>전복 시 표시</b></sub>
+>      </td>  
+>   </tr>
+>  </table>
+> </div>
+
+
+
+
+
+
+
 
 ## 🛠️ 하드웨어
 <details>
@@ -63,10 +109,38 @@
 > |NMP441 전방향 마이크 모듈       |요구조자와 소통|
 > |MAX98357a 앰프 + 스피커     |전달 내용 출력|
 > |HAM4311 IR 감지기        |라인트레이싱|
-> 
-> | 전면 | LED ON | 밑면 | 후면 |
-> | :---: | :---: | :---: | :---: |
-> | <img src="https://github.com/user-attachments/assets/8279ed56-7f75-4aa2-9896-88c7d142da28" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover;" /> | <img src="https://github.com/user-attachments/assets/2eb6d84f-9545-4a47-b458-8a55d887c2de"  style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover;" /> | <img src="https://github.com/user-attachments/assets/d340808d-7860-496e-8379-8dd7180bad9e" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover;" /> | <img src="https://github.com/user-attachments/assets/d9eb1bec-2dbe-407b-98ab-ec936ba67c39" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover;" /> |
+>
+>  <div align="center">
+>  <table>
+>    <tr>
+>      <td align="center" width="50%">
+>        <img src="https://github.com/user-attachments/assets/8279ed56-7f75-4aa2-9896-88c7d142da28" width="70%"/><br/>
+>        <sub><b>전조등 OFF</b></sub>
+>      </td>
+>      <td align="center" width="50%">
+>        <img src="https://github.com/user-attachments/assets/2eb6d84f-9545-4a47-b458-8a55d887c2de" width="70%"/><br/>
+>        <sub><b>전조등 ON</b></sub>
+>      </td>
+>    </tr>
+>    <tr>
+>      <td align="center" width="50%">
+>        <img src="https://github.com/user-attachments/assets/d340808d-7860-496e-8379-8dd7180bad9e" width="100%"/><br/>
+>        <sub><b>스피커</b></sub>
+>      </td>
+>      <td align="center" width="50%">
+>        <img src="https://github.com/user-attachments/assets/d9eb1bec-2dbe-407b-98ab-ec936ba67c39" width="100%"/><br/>
+>        <sub><b>IR 센서</b></sub>
+>      </td>
+>    </tr>
+>    <tr>
+>      <td align="center" width="50%">
+>        <img src="https://github.com/user-attachments/assets/a5251142-aa88-42a4-b56f-ce9a6dc60cb7" width="100%"/><br/>
+>        <sub><b>상단 arUco 마커</b></sub>
+>      </td>
+>   </tr>
+>  </table>
+> </div>
+
 
 
 
