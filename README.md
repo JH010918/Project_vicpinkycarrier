@@ -34,7 +34,7 @@
 [Slope control](file/turtle/line_tracing)
 
 ### 라인 트레이싱
-[line_tracing.webm](https://github.com/user-attachments/assets/8eac94e5-8ba8-4526-a166-d174bd4977ad)
+<img src="file/turtle/vicpinky_line_trace.webp" width="100%">
 
 ### 터틀봇 상차 및 주차
 [auto_loading.webm](https://github.com/user-attachments/assets/35f7c49f-e6cc-4975-a01e-599cda26b8e8)
@@ -43,7 +43,7 @@
 [yolo_dashboard.webm](https://github.com/user-attachments/assets/32c18b7b-b848-4501-a7e7-fcd81c8a3fba)
 
 ### YOLO 요구조자 감지
-[yolo_detect.webm](https://github.com/user-attachments/assets/00c7a3d9-5866-4580-adab-7c6604a620e0)
+<img src="file/system/yolo_model.webp" width="60%">
 
 ### OMX 시스템
 [omx_dashboard.webm](https://github.com/user-attachments/assets/4a6fdc93-9bdd-4377-ab9f-23895cbfc3be)
@@ -53,43 +53,43 @@
 >  <table>
 >    <tr>
 >      <td align="center" width="30%">
->        <img src="https://github.com/user-attachments/assets/a761cbbc-02bb-45b9-a2b0-90e8edffc89f" width="95%"/><br/>
+>        <img src="file/system/state.png" width="95%"/><br/>
 >        <sub><b>상태확인</b></sub>
 >      </td>
 >      <td align="center" width="30%">
->        <img src="https://github.com/user-attachments/assets/064f4753-c6ce-432f-96b9-fcee9d88100a" width="100%"/><br/>
+>        <img src="file/system/battery.png" width="100%"/><br/>
 >        <sub><b>배터리 알림</b></sub>
 >      </td>
 >      <td align="center" width="30%">
->        <img src="https://github.com/user-attachments/assets/7f54253f-03b2-4d97-8ce9-a79871ed40cd" width="85%"/><br/>
+>        <img src="file/system/warming.png" width="85%"/><br/>
 >        <sub><b>전복 알림</b></sub>
 >      </td>  
 >    </tr>
 >    <tr>
 >      <td align="center" width="30%">
->        <img src="https://github.com/user-attachments/assets/c11c46ec-ecc5-4355-ac84-658fc00a6a5c" width="65%"/><br/>
+>        <img src="file/system/LLM_RAG.png" width="65%"/><br/>
 >        <sub><b>LLM + RAG</b></sub>
 >      </td>
 >      <td align="center" width="30%">
->        <img src="https://github.com/user-attachments/assets/ca599463-e926-4430-8e74-cf0a23796c82" width="100%"/><br/>
+>        <img src="file/system/priority.png" width="100%"/><br/>
 >        <sub><b>우선순위 지정</b></sub>
 >      </td>
 >      <td align="center" width="30%">
->        <img src="https://github.com/user-attachments/assets/daa0ccb8-8747-436d-8158-7498cfcdacf3" width="100%"/><br/>
+>        <img src="file/system/current.png" width="100%"/><br/>
 >        <sub><b>작업별/로봇별 현황</b></sub>
 >      </td>  
 >    </tr>
 >    <tr>
 >      <td align="center" width="30%">
->        <img src="https://github.com/user-attachments/assets/cbd86a4a-2fb9-4c78-a4da-5ec67dcaf505" width="100%"/><br/>
+>        <img src="file/system/move.png" width="100%"/><br/>
 >        <sub><b>이동경로 확인</b></sub>
 >      </td>
 >      <td align="center" width="30%">
->        <img src="https://github.com/user-attachments/assets/2b40889a-f817-4ad1-8e81-1e96b39b1de3" width="100%"/><br/>
+>        <img src="file/system/charge.png" width="100%"/><br/>
 >        <sub><b>충전경로 확인</b></sub>
 >      </td>  
 >      <td align="center" width="30%">
->        <img src="https://github.com/user-attachments/assets/1f4b2dc8-22ff-4e6c-b70d-12ebfc265990" width="100%"/><br/>
+>        <img src="file/system/warm.png" width="100%"/><br/>
 >        <sub><b>전복 시 표시</b></sub>
 >      </td>  
 >   </tr>
