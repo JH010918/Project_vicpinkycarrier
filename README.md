@@ -39,6 +39,9 @@
 ### 자율 맵핑 및 조난자 감지
 [yolo_dashboard.webm](https://github.com/user-attachments/assets/32c18b7b-b848-4501-a7e7-fcd81c8a3fba)
 
+### YOLO 요구조자 감지
+[yolo_detect.webm](https://github.com/user-attachments/assets/00c7a3d9-5866-4580-adab-7c6604a620e0)
+
 ### OMX 시스템
 [omx_dashboard.webm](https://github.com/user-attachments/assets/4a6fdc93-9bdd-4377-ab9f-23895cbfc3be)
 
