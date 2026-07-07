@@ -155,11 +155,11 @@
 >  <table>
 >    <tr>
 >      <td align="center" width="50%">
->        <img src="https://github.com/user-attachments/assets/36631645-6d8b-4a9e-956f-e130c6265365" width="100%"/><br/>
+>        <img src="file/vicpinky/vicpinky_ramp_closed.jpg" width="100%"/><br/>
 >        <sub><b>경사로 닫힘</b></sub>
 >      </td>
 >      <td align="center" width="50%">
->        <img src="https://github.com/user-attachments/assets/14617bbb-5757-4ee7-8ba1-149acffc326c" width="100%"/><br/>
+>        <img src="file/vicpinky/vicpinky_ramp_open.jpg" width="100%"/><br/>
 >        <sub><b>경사로 열림</b></sub>
 >      </td>
 >    </tr>
@@ -170,15 +170,15 @@
 >  <table>
 >    <tr>
 >      <td align="center" width="33%">
->        <img src="https://github.com/user-attachments/assets/db60b8a2-7628-4b4f-a652-c6ef88234bc8" width="100%"/><br/>
+>        <img src="file/vicpinky/vicpinky_driver_cam.jpg" width="100%"/><br/>
 >        <sub><b>전방 카메라</b></sub>
 >      </td>
 >      <td align="center" width="33%">
->        <img src="https://github.com/user-attachments/assets/a234927d-7913-45df-a3c5-3feab497326a" width="100%"/><br/>
+>        <img src="file/vicpinky/vicpinky_internal_cam.jpg" width="100%"/><br/>
 >        <sub><b>내부 카메라</b></sub>
 >      </td>
 >      <td align="center" width="33%">
->        <img src="https://github.com/user-attachments/assets/5242d42b-7237-4cb1-ad7e-3f3150c254bc" width="100%"/><br/>
+>        <img src="file/vicpinky/vicpinky_omx_cam.jpg" width="100%"/><br/>
 >        <sub><b>OMX 카메라</b></sub>
 >      </td>
 >    </tr>
