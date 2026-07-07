@@ -31,7 +31,10 @@
 ## 🎥 시연
 
 ### 경사로 제어
-[Slope control](https://github.com/user-attachments/assets/63f0e42b-717f-4537-8dad-6ca5f4a11c15)
+[Slope control](https://github.com/user-attachments/assets/edf62a46-71b4-490e-b29d-4e6f80b74776)
+
+### 라인 트레이싱
+[line_tracing.webm](https://github.com/user-attachments/assets/8eac94e5-8ba8-4526-a166-d174bd4977ad)
 
 ### 터틀봇 상차 및 주차
 [auto_loading.webm](https://github.com/user-attachments/assets/35f7c49f-e6cc-4975-a01e-599cda26b8e8)
@@ -93,13 +96,6 @@
 >  </table>
 > </div>
 
-
-
-
-
-
-
-
 ## 🛠️ 하드웨어
 <details>
   <summary>HW</summary> 
@@ -155,9 +151,40 @@
 > |DYNAMIXEL 모터       |상하차용 경사로 제어 모터|
 > |OMX Manipulator     |구호품 적재용 매니퓰레이터|
 > 
-> | 전면 | 후면 |
-> | :---: | :---: |
-> | <img src="https://github.com/user-attachments/assets/053ffab6-c253-45be-853d-6aa55a905c40" style="width: 40%; aspect-ratio: 4 / 3; object-fit: cover;" /> | <img src="https://github.com/user-attachments/assets/23c33340-deb2-4478-bbb7-118865ef61cc"  style="width: 40%; aspect-ratio: 4 / 3; object-fit: cover;" /> |
+> <div align="center">
+>  <table>
+>    <tr>
+>      <td align="center" width="50%">
+>        <img src="https://github.com/user-attachments/assets/36631645-6d8b-4a9e-956f-e130c6265365" width="100%"/><br/>
+>        <sub><b>경사로 닫힘</b></sub>
+>      </td>
+>      <td align="center" width="50%">
+>        <img src="https://github.com/user-attachments/assets/14617bbb-5757-4ee7-8ba1-149acffc326c" width="100%"/><br/>
+>        <sub><b>경사로 열림</b></sub>
+>      </td>
+>    </tr>
+>  </table>
+> </div>
+>
+> <div align="center">
+>  <table>
+>    <tr>
+>      <td align="center" width="33%">
+>        <img src="https://github.com/user-attachments/assets/db60b8a2-7628-4b4f-a652-c6ef88234bc8" width="100%"/><br/>
+>        <sub><b>전방 카메라</b></sub>
+>      </td>
+>      <td align="center" width="33%">
+>        <img src="https://github.com/user-attachments/assets/a234927d-7913-45df-a3c5-3feab497326a" width="100%"/><br/>
+>        <sub><b>내부 카메라</b></sub>
+>      </td>
+>      <td align="center" width="33%">
+>        <img src="https://github.com/user-attachments/assets/5242d42b-7237-4cb1-ad7e-3f3150c254bc" width="100%"/><br/>
+>        <sub><b>OMX 카메라</b></sub>
+>      </td>
+>    </tr>
+>  </table>
+> </div>
+
 
 </details>
 
