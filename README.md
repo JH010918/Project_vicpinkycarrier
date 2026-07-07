@@ -31,7 +31,7 @@
 ## 🎥 시연
 
 ### 경사로 제어
-[Slope control](https://github.com/user-attachments/assets/edf62a46-71b4-490e-b29d-4e6f80b74776)
+[Slope control](file/turtle/line_tracing)
 
 ### 라인 트레이싱
 [line_tracing.webm](https://github.com/user-attachments/assets/8eac94e5-8ba8-4526-a166-d174bd4977ad)
@@ -113,27 +113,27 @@
 >  <table>
 >    <tr>
 >      <td align="center" width="50%">
->        <img src="https://github.com/user-attachments/assets/8279ed56-7f75-4aa2-9896-88c7d142da28" width="70%"/><br/>
+>        <img src="file/turtle/turtlebot_flash_off.jpg" width="70%"/><br/>
 >        <sub><b>전조등 OFF</b></sub>
 >      </td>
 >      <td align="center" width="50%">
->        <img src="https://github.com/user-attachments/assets/2eb6d84f-9545-4a47-b458-8a55d887c2de" width="70%"/><br/>
+>        <img src="file/turtle/turtlebot_flash_on.jpg" width="70%"/><br/>
 >        <sub><b>전조등 ON</b></sub>
 >      </td>
 >    </tr>
 >    <tr>
 >      <td align="center" width="50%">
->        <img src="https://github.com/user-attachments/assets/d340808d-7860-496e-8379-8dd7180bad9e" width="100%"/><br/>
+>        <img src="file/turtle/turtlebot_speaker.jpg" width="100%"/><br/>
 >        <sub><b>스피커</b></sub>
 >      </td>
 >      <td align="center" width="50%">
->        <img src="https://github.com/user-attachments/assets/d9eb1bec-2dbe-407b-98ab-ec936ba67c39" width="100%"/><br/>
+>        <img src="file/turtle/turtlebot_ir_sensor.jpg" width="100%"/><br/>
 >        <sub><b>IR 센서</b></sub>
 >      </td>
 >    </tr>
 >    <tr>
 >      <td align="center" width="50%">
->        <img src="https://github.com/user-attachments/assets/a5251142-aa88-42a4-b56f-ce9a6dc60cb7" width="100%"/><br/>
+>        <img src="file/turtle/turtlebot_aruco_marker.jpg" width="100%"/><br/>
 >        <sub><b>상단 arUco 마커</b></sub>
 >      </td>
 >   </tr>
