@@ -31,7 +31,7 @@
 ## 🎥 시연
 
 ### 경사로 제어
-[Slope control](file/turtle/line_tracing)
+<img src="file/vicpinky/vicpinky_ramp_action.webp" width="100%">
 
 ### 라인 트레이싱
 <img src="file/turtle/vicpinky_line_trace.webp" width="100%">
